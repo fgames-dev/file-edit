@@ -1,0 +1,9 @@
+RELEASE:
+
+EDITION.VERSION.PATCH
+
+Edition is language. Edition 1 is Shell, Edition 2 is C++, Edition 3 is Web.
+
+Version is main update. A higher version has better features.
+
+Patch is bug fixes. Higher patches are less buggy.
